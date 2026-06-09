@@ -1,5 +1,3 @@
-![SubSage Logo](public/images/website icon.ico)
-
 # 🚀 SubSage
 
 **The Ultimate Subscription & Utility Management Dashboard**
@@ -12,7 +10,7 @@
 
 SubSage is a robust, full-stack web application designed to help users track, manage, and analyze their recurring expenses, entertainment subscriptions, and household utilities in one beautiful, centralized dashboard.
 
-[Live Demo](https://your-vercel-deployment-url.vercel.app) · [Report Bug](https://github.com/SABARISH0014/SubSage-Subscription_Management_System/issues) · [Request Feature](https://github.com/SABARISH0014/SubSage-Subscription_Management_System/issues)
+[Live Demo](https://sub-sage-subscription-management-sy.vercel.app/) · [Report Bug](https://github.com/SABARISH0014/SubSage-Subscription_Management_System/issues) · [Request Feature](https://github.com/SABARISH0014/SubSage-Subscription_Management_System/issues)
 
 ---
 
