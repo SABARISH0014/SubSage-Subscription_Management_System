@@ -49,18 +49,16 @@ SubSage is a robust, full-stack web application designed to help users track, ma
 
 ## 🖥️ UI & Design Showcase
 
-*(Replace the `src` links below with the actual paths to your screenshots inside your repository, e.g., `docs/dashboard.png`)*
-
 ### 🌙 Light & Dark Mode Ready UI
 
 | Dashboard Analytics | Subscription Management |
 | :---: | :---: |
-| ![Dashboard UI](https://via.placeholder.com/600x350/1e1e1e/007bff?text=Dashboard+Screenshot) | ![Add Subscription UI](https://via.placeholder.com/600x350/f4f4f9/0056b3?text=Add+Subscription+UI) |
+| ![Dashboard UI](docs/dashboard.png) | ![Add Subscription UI](docs/addsubscription.png) |
 | *Interactive Chart.js visualizations of monthly expenses* | *Clean, responsive forms for adding new services* |
 
 | Secure Authentication | Transaction History |
 | :---: | :---: |
-| ![Login UI](https://via.placeholder.com/600x350/1e1e1e/007bff?text=Login+reCAPTCHA) | ![Transactions UI](https://via.placeholder.com/600x350/f4f4f9/0056b3?text=Transaction+Ledger) |
+| ![Login UI](docs/login.png) | ![Transactions UI](docs/transactionhistory.png) |
 | *Bot-protected login flows with forgot-password support* | *Detailed ledger of all historical payments* |
 
 ---
